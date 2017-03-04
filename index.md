@@ -7,7 +7,7 @@
 | [cveuc](https://github.com/nathancorvussolis/cveuc) | [2.2.0](https://github.com/nathancorvussolis/cveuc/releases/tag/2.2.0) | 2016/04/16 | 文字コード変換ツール<br>EUC-JIS-2004、UTF-8、UTF-16に対応 |
 | [pcrvskkserv](https://github.com/nathancorvussolis/pcrvskkserv) | 0.0.2 | 2016/11/30 | Python SKK辞書サーバー |
 | [ncrvskkserv](https://github.com/nathancorvussolis/ncrvskkserv) | 0.4.0 | 2016/11/30 | Node.js SKK辞書サーバー |
-| [skkdic](https://github.com/nathancorvussolis/skkdic) | ----- | 2017/03/01 | SKK辞書 |
+| [skkdic](https://github.com/nathancorvussolis/skkdic) | ----- | 2017/03/01 | 雑多なSKK辞書と<br>http://openlab.ring.gr.jp/skk/skk/dic/ のミラー |
 | [skkime-archive](https://github.com/nathancorvussolis/skkime-archive) | ----- | 2016/11/13 | SKKIME 98, 1.0, 1.5 と SKKIME 1.5 改 |
 
 ### お知らせ
