@@ -12,7 +12,7 @@
 
 ### お知らせ
 
-* [Chocolatey](https://chocolatey.org/)からインストール可能になりました。https://chocolatey.org/packages/corvusskk (2016/05/17)
+* [Chocolatey](https://chocolatey.org/)からインストール可能になりました。[https://chocolatey.org/packages/corvusskk](https://chocolatey.org/packages/corvusskk) (2016/05/17)
 
 * [CorvusSKK 2.3.0](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.3.0)にてLuaスクリプトファイルのインターフェイスを変更しました。カスタマイズされている場合は更新をお願いします。
   * SKK辞書検索のcrvmgr.search_skk_dictionary関数に送り仮名の引数を追加しています。
