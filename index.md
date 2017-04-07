@@ -8,7 +8,7 @@
 | [pcrvskkserv](https://github.com/nathancorvussolis/pcrvskkserv) | 0.0.2 | 2016/11/30 | Python SKK辞書サーバー |
 | [ncrvskkserv](https://github.com/nathancorvussolis/ncrvskkserv) | 0.4.0 | 2016/11/30 | Node.js SKK辞書サーバー |
 | [skkdic](https://github.com/nathancorvussolis/skkdic) | ----- | 2017/03/25 | 雑多なSKK辞書と<br>[http://openlab.ring.gr.jp/skk/skk/dic/](http://openlab.ring.gr.jp/skk/skk/dic/) のミラー |
-| [skkime-archive](https://github.com/nathancorvussolis/skkime-archive) | ----- | 2016/11/13 | SKKIME 98, 1.0, 1.5 と SKKIME 1.5 改 |
+| [skkime-archive](https://github.com/nathancorvussolis/skkime-archive) | ----- | 2017/04/04 | SKKIME 98, 1.0, 1.5 と SKKIME 改 |
 
 ### お知らせ
 
