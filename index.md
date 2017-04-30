@@ -8,7 +8,8 @@
 | [pcrvskkserv](https://github.com/nathancorvussolis/pcrvskkserv) | 0.0.2 | 2016/11/30 | Python SKK辞書サーバー |
 | [ncrvskkserv](https://github.com/nathancorvussolis/ncrvskkserv) | 0.4.0 | 2016/11/30 | Node.js SKK辞書サーバー |
 | [skkdic](https://github.com/nathancorvussolis/skkdic) | ----- | 2017/03/25 | 雑多なSKK辞書と<br>[http://openlab.ring.gr.jp/skk/skk/dic/](http://openlab.ring.gr.jp/skk/skk/dic/) のミラー |
-| [skkime-archive](https://github.com/nathancorvussolis/skkime-archive) | ----- | 2017/04/04 | SKKIME 98, 1.0, 1.5 と SKKIME 改 |
+| [skkime-archive](https://github.com/nathancorvussolis/skkime-archive) | ----- | 2017/04/04 | SKKIME 98, 1.0, 1.5 と [SKKIME 改](http://coexe.web.fc2.com/legacy.html#skkime) |
+
 
 ### お知らせ
 
@@ -37,6 +38,20 @@
   * ローマ字入力の場合は、バージョンアップのときにローマ字仮名変換表に「n、ん、ン、ﾝ」の行を追加してください。追加する場所は何行目でもOKです。
   * ローマ字仮名変換表のローマ字「nb」,「nc」,「nd」〜「nz」の行は不要となりますが、あっても問題ありません。
   * 詳しくは、[kanatable.txtのサンプルのdiff](https://github.com/nathancorvussolis/corvusskk/commit/b6a4f14363ca25f2390f9e45cca95ae8fd20ee1d#diff-6e3939736bb31470e55c3440f0501289)をご覧ください。
+
+
+### リンク
+
+* [Chocolaty Gallery | CorvusSKK](https://chocolatey.org/packages/corvusskk)
+
+* [SKK Opanlab](http://openlab.ring.gr.jp/skk/index-j.html)
+
+* [skk-dev](https://github.com/skk-dev)
+
+* [SKK日本語入力FEP](http://coexe.web.fc2.com/programs.html#skkfep)
+
+* [AquaSKK](https://github.com/codefirst/aquaskk)
+
 
 ### 開発支援のお願い
 
