@@ -42,7 +42,7 @@
 
 ### リンク
 
-* [Chocolaty Gallery | CorvusSKK](https://chocolatey.org/packages/corvusskk)
+* [Chocolaty Gallery - CorvusSKK](https://chocolatey.org/packages/corvusskk)
 
 * [SKK Opanlab](http://openlab.ring.gr.jp/skk/index-j.html)
 
