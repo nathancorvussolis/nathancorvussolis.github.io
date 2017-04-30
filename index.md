@@ -13,7 +13,7 @@
 
 ### お知らせ
 
-* [CorvusSKK 2.5.2](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.5.2)にてPer-Monitor DPIに対応しました。
+* [CorvusSKK 2.5.2](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.5.2)にてPer-Monitor DPIに対応しました。(2017/05/01)
 
 * [Chocolatey](https://chocolatey.org/)からインストール可能になりました。[https://chocolatey.org/packages/corvusskk](https://chocolatey.org/packages/corvusskk) (2016/05/17)
 
