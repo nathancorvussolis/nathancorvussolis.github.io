@@ -1,7 +1,7 @@
 
 | プログラム | バージョン | 日付 | 説明 |
 |---|---|---|---|
-| [CorvusSKK](https://github.com/nathancorvussolis/corvusskk) | [2.5.6](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.5.6) | 2017/11/12 | Windowsで動作するSKK風のIMEです<br>[マニュアル](https://github.com/nathancorvussolis/corvusskk/blob/2.5.6/README.md)<br>[設定サンプル](https://github.com/nathancorvussolis/corvusskk/tree/2.5.6/installer/config-sample) |
+| [CorvusSKK](https://github.com/nathancorvussolis/corvusskk) | [2.5.7](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.5.7) | 2018/01/21 | Windowsで動作するSKK風のIMEです<br>[マニュアル](https://github.com/nathancorvussolis/corvusskk/blob/2.5.7/README.md)<br>[設定サンプル](https://github.com/nathancorvussolis/corvusskk/tree/2.5.7/installer/config-sample) |
 | [crvskkserv](https://github.com/nathancorvussolis/crvskkserv) | [2.2.0](https://github.com/nathancorvussolis/crvskkserv/releases/tag/2.2.0) | 2016/04/16 | SKK辞書サーバー<br>Google CGI API for Japanese Inputにも対応 |
 | [meskkdic](https://github.com/nathancorvussolis/meskkdic) | [2.2.0](https://github.com/nathancorvussolis/meskkdic/releases/tag/2.2.0) | 2016/04/16 | SKK辞書メンテナンスツール<br>SKK辞書の結合と差分の取得を行います |
 | [cveuc](https://github.com/nathancorvussolis/cveuc) | [2.2.0](https://github.com/nathancorvussolis/cveuc/releases/tag/2.2.0) | 2016/04/16 | 文字コード変換ツール<br>EUC-JIS-2004、UTF-8、UTF-16に対応 |
@@ -12,6 +12,8 @@
 
 
 ### お知らせ
+
+* [CorvusSKK 2.5.7](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.5.7)にてWindows 10 version 1709 のタッチキーボードの「次頁」、「前頁」ボタンに対応しました。version 1703 までは VK_PACKET でしたが、version 1709 ではそれぞれ VK_DOWN + VK_NEXT、VK_DOWN + VK_PRIOR に変更されています。既存の設定を変更する場合は、キー設定(仮想キー)の、「次候補」に「\x22」、「前候補」に「\x21」を設定してください。(2018/01/21)
 
 * [CorvusSKK 2.5.2](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.5.2)にてPer-Monitor DPIに対応しました。(2017/05/01)
 
