@@ -13,6 +13,8 @@
 
 ### お知らせ
 
+* [CorvusSKK 2.5.9](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.5.9)にてWiX Toolset v3.11.1に更新しました。DLLハイジャックの脆弱性が修正されています。[https://www.firegiant.com/blog/2017/12/31/wix-v3.10.4-and-wix-v3.11.1-released/](https://www.firegiant.com/blog/2017/12/31/wix-v3.10.4-and-wix-v3.11.1-released/) (2018/01/31)
+
 * [CorvusSKK 2.5.7](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.5.7)にてWindows 10 version 1709 のタッチキーボードの「次頁」、「前頁」ボタンに対応しました。version 1703 までは VK_PACKET でしたが、version 1709 ではそれぞれ VK_DOWN + VK_NEXT、VK_DOWN + VK_PRIOR に変更されています。既存の設定を変更する場合は、キー設定(仮想キー)の、「次候補」に「\x22」、「前候補」に「\x21」を設定してください。(2018/01/21)
 
 * [CorvusSKK 2.5.2](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.5.2)にてPer-Monitor DPIに対応しました。(2017/05/01)
