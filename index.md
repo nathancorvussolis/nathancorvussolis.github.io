@@ -13,7 +13,7 @@
 
 ### お知らせ
 
-* [CorvusSKK 2.7.1](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.7.1)にてUniversal CRTのバンドルを廃止しました。インストールされていない環境では自動的にダウンロードされます。 (2018
+* [CorvusSKK 2.7.1](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.7.1)にてUniversal CRTのバンドルを廃止しました。インストールされていない環境では自動的にダウンロードされます。 (2018/10/07)
 
 * [CorvusSKK 2.5.9](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.5.9)にてWiX Toolset v3.11.1に更新しました。DLLハイジャックの脆弱性が修正されています。[https://www.firegiant.com/blog/2017/12/31/wix-v3.10.4-and-wix-v3.11.1-released/](https://www.firegiant.com/blog/2017/12/31/wix-v3.10.4-and-wix-v3.11.1-released/) (2018/01/31)
 
