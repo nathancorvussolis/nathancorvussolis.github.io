@@ -1,9 +1,9 @@
 
 | プログラム | バージョン | 日付 | 説明 |
 |---|---|---|---|
-| [CorvusSKK](https://github.com/nathancorvussolis/corvusskk) | [2.7.0](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.7.0) | 2018/08/05 | Windowsで動作するSKK風のIMEです<br>[マニュアル](https://github.com/nathancorvussolis/corvusskk/blob/2.7.0/README.md)<br>[設定サンプル](https://github.com/nathancorvussolis/corvusskk/tree/2.7.0/installer/config-sample) |
+| [CorvusSKK](https://github.com/nathancorvussolis/corvusskk) | [2.7.1](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.7.1) | 2018/10/07 | Windowsで動作するSKK風のIMEです<br>[マニュアル](https://github.com/nathancorvussolis/corvusskk/blob/2.7.1/README.md)<br>[設定サンプル](https://github.com/nathancorvussolis/corvusskk/tree/2.7.1/installer/config-sample) |
 | [crvskkserv](https://github.com/nathancorvussolis/crvskkserv) | [2.2.0](https://github.com/nathancorvussolis/crvskkserv/releases/tag/2.2.0) | 2016/04/16 | SKK辞書サーバー<br>Google CGI API for Japanese Inputにも対応 |
-| [meskkdic](https://github.com/nathancorvussolis/meskkdic) | [2.2.0](https://github.com/nathancorvussolis/meskkdic/releases/tag/2.2.0) | 2016/04/16 | SKK辞書メンテナンスツール<br>SKK辞書の結合と差分の取得を行います |
+| [meskkdic](https://github.com/nathancorvussolis/meskkdic) | [2.3.0](https://github.com/nathancorvussolis/meskkdic/releases/tag/2.3.0) | 2018/10/07 | SKK辞書メンテナンスツール<br>SKK辞書の結合と差分の取得を行います |
 | [cveuc](https://github.com/nathancorvussolis/cveuc) | [2.2.0](https://github.com/nathancorvussolis/cveuc/releases/tag/2.2.0) | 2016/04/16 | 文字コード変換ツール<br>EUC-JIS-2004、UTF-8、UTF-16に対応 |
 | [pcrvskkserv](https://github.com/nathancorvussolis/pcrvskkserv) | 0.0.2 | 2016/11/30 | Python SKK辞書サーバー |
 | [ncrvskkserv](https://github.com/nathancorvussolis/ncrvskkserv) | 0.4.0 | 2016/11/30 | Node.js SKK辞書サーバー |
@@ -12,6 +12,8 @@
 
 
 ### お知らせ
+
+* [CorvusSKK 2.7.1](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.7.1)にてUniversal CRTのバンドルを廃止しました。インストールされていない環境では自動的にダウンロードされます。
 
 * [CorvusSKK 2.5.9](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.5.9)にてWiX Toolset v3.11.1に更新しました。DLLハイジャックの脆弱性が修正されています。[https://www.firegiant.com/blog/2017/12/31/wix-v3.10.4-and-wix-v3.11.1-released/](https://www.firegiant.com/blog/2017/12/31/wix-v3.10.4-and-wix-v3.11.1-released/) (2018/01/31)
 
