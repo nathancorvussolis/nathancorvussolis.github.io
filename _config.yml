@@ -2,7 +2,7 @@ title: "@nathancorvussolis"
 description: 
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-hacker
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
