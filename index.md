@@ -30,6 +30,6 @@
 
 * PayPal.Me [paypal.me/nathancorvussolis](https://www.paypal.me/nathancorvussolis)
 
-* [Amazonギフト券Eメールタイプ](https://www.amazon.co.jp/gp/product/B004N3APGO/) (作者メールアドレス ``nathancorvussolis@gmail.com`` )
+* [Amazonギフト券Eメールタイプ](https://www.amazon.co.jp/gp/product/B004N3APGO/) (``nathancorvussolis@gmail.com`` 宛)
 
 皆様のご協力に感謝します。
