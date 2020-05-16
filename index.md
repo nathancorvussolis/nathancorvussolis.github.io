@@ -33,3 +33,12 @@
 * [Amazonギフト券Eメールタイプ](https://www.amazon.co.jp/gp/product/B004N3APGO/) (``nathancorvussolis@gmail.com`` 宛)
 
 皆様のご協力に感謝します。
+
+
+###
+
+* [@corvussolis](https://twitter.com/corvussolis) - Twitter
+
+* [@corvussolis@mstdn.jp](https://mstdn.jp/@corvussolis) - mstdn.jp
+
+* https://nathancorvussolis.blogspot.com/ - Blogger
