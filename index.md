@@ -41,4 +41,4 @@
 
 * [@corvussolis@mstdn.jp](https://mstdn.jp/@corvussolis) - mstdn.jp
 
-* https://nathancorvussolis.blogspot.com/ - Blogger
+* [nathancorvussolis](https://nathancorvussolis.blogspot.com/) - Blogger
