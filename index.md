@@ -2,9 +2,9 @@
 | プログラム | バージョン | 日付 | 説明 |
 |---|---|---|---|
 | [CorvusSKK](https://github.com/nathancorvussolis/corvusskk) | [2.8.0](https://github.com/nathancorvussolis/corvusskk/releases/tag/2.8.0) | 2020/07/25 | Windowsで動作するSKK風のIMEです<br>[マニュアル](https://github.com/nathancorvussolis/corvusskk/blob/2.8.0/README.md)<br>[設定サンプル](https://github.com/nathancorvussolis/corvusskk/tree/2.8.0/installer/config-sample) |
-| [crvskkserv](https://github.com/nathancorvussolis/crvskkserv) | [2.2.0](https://github.com/nathancorvussolis/crvskkserv/releases/tag/2.2.0) | 2016/04/16 | SKK辞書サーバー<br>Google CGI API for Japanese Inputにも対応 |
-| [meskkdic](https://github.com/nathancorvussolis/meskkdic) | [2.3.0](https://github.com/nathancorvussolis/meskkdic/releases/tag/2.3.0) | 2018/10/07 | SKK辞書メンテナンスツール<br>SKK辞書の結合と差分の取得を行います |
-| [cveuc](https://github.com/nathancorvussolis/cveuc) | [2.2.0](https://github.com/nathancorvussolis/cveuc/releases/tag/2.2.0) | 2016/04/16 | 文字コード変換ツール<br>EUC-JIS-2004、UTF-8、UTF-16に対応 |
+| [crvskkserv](https://github.com/nathancorvussolis/crvskkserv) | [2.4.0](https://github.com/nathancorvussolis/crvskkserv/releases/tag/2.4.0) | 2021/01/01 | SKK辞書サーバー<br>Google CGI API for Japanese Inputにも対応 |
+| [meskkdic](https://github.com/nathancorvussolis/meskkdic) | [2.4.0](https://github.com/nathancorvussolis/meskkdic/releases/tag/2.4.0) | 2021/01/01 | SKK辞書メンテナンスツール<br>SKK辞書の結合と差分の取得を行います |
+| [cveuc](https://github.com/nathancorvussolis/cveuc) | [2.4.0](https://github.com/nathancorvussolis/cveuc/releases/tag/2.4.0) | 2021/01/01 | 文字コード変換ツール<br>EUC-JIS-2004、UTF-8、UTF-16に対応 |
 | [pcrvskkserv](https://github.com/nathancorvussolis/pcrvskkserv) | 0.0.2 | 2016/11/30 | Python SKK辞書サーバー |
 | [ncrvskkserv](https://github.com/nathancorvussolis/ncrvskkserv) | 0.4.0 | 2016/11/30 | Node.js SKK辞書サーバー |
 | [skkdic](https://github.com/nathancorvussolis/skkdic) | ----- | 2019/05/27 | [雑多なSKK辞書](https://nathancorvussolis.github.io/skkdic/) |
