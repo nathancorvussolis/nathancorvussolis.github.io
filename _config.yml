@@ -2,6 +2,8 @@ title: "@nathancorvussolis"
 description: 
 google_analytics: 
 show_downloads: false
+twitter:
+  username: corvussolis
 image: /corvus.png
 theme: jekyll-theme-slate
 gems:
