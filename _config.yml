@@ -17,6 +17,11 @@ image:
   path: /logo.png
   height: 64
   width: 64
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /logo.png
 theme: jekyll-theme-slate
 gems:
   - jekyll-mentions
