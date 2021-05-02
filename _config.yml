@@ -2,10 +2,7 @@ title: "@nathancorvussolis"
 description: 
 google_analytics: 
 show_downloads: false
-image:
-  path: /corvus.png
-  height: 64
-  width: 64
+image: /corvus.png
 theme: jekyll-theme-slate
 gems:
   - jekyll-mentions
