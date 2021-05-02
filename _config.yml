@@ -4,7 +4,19 @@ google_analytics:
 show_downloads: false
 twitter:
   username: corvussolis
-image: /corvus.png
+  card: summary
+social:
+  name: nathancorvussolis
+  links:
+    - https://twitter.com/corvussolis
+    - https://github.com/nathancorvussolis
+logo: /logo.png
+author:
+  twitter: corvussolis
+image:
+  path: /logo.png
+  height: 64
+  width: 64
 theme: jekyll-theme-slate
 gems:
   - jekyll-mentions
