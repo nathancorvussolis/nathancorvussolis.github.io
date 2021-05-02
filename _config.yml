@@ -15,8 +15,8 @@ author:
   twitter: corvussolis
 image:
   path: /logo.png
-  height: 64
-  width: 64
+  height: 600
+  width: 600
 defaults:
   - scope:
       path: ""
