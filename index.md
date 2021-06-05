@@ -15,7 +15,8 @@
 
 * [Chocolaty Gallery - CorvusSKK](https://chocolatey.org/packages/corvusskk)
 
-* [winget-pkgs/manifests/n/nathancorvussolis](https://github.com/microsoft/winget-pkgs/tree/master/manifests/n/nathancorvussolis)
+* [winget](https://docs.microsoft.com/ja-jp/windows/package-manager/winget/)
+  * [winget-pkgs/manifests/n/nathancorvussolis](https://github.com/microsoft/winget-pkgs/tree/master/manifests/n/nathancorvussolis)
  
 * [SKK Opanlab](http://openlab.ring.gr.jp/skk/index-j.html)
 
