@@ -15,9 +15,35 @@
 
 * [Chocolaty Gallery - CorvusSKK](https://chocolatey.org/packages/corvusskk)
 
+  Install
+  ```
+  choco install corvusskk
+  ```
+  Upgrade
+  ```
+  choco upgrade corvusskk
+  ```
+  Uninstall
+  ```
+  choco uninstall corvusskk
+  ```
+
 * [winget](https://docs.microsoft.com/ja-jp/windows/package-manager/winget/)
   * [winget-pkgs/manifests/n/nathancorvussolis](https://github.com/microsoft/winget-pkgs/tree/master/manifests/n/nathancorvussolis)
- 
+
+  Install
+  ```
+  winget install -h corvusskk
+  ```
+  Updrade
+  ```
+  winget upgrade -h corvusskk
+  ```
+  Uninstall
+  ```
+  winget uninstall -h corvusskk
+  ```
+   
 * [SKK Opanlab](http://openlab.ring.gr.jp/skk/index-j.html)
 
 * [skk-dev](https://github.com/skk-dev)
