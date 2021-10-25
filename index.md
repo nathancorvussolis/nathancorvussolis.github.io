@@ -35,7 +35,7 @@
   ```
   winget install -h corvusskk
   ```
-  Updrade
+  Upgrade
   ```
   winget upgrade -h corvusskk
   ```
