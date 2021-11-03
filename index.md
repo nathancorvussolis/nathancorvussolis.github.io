@@ -39,7 +39,7 @@
   ```
   winget upgrade -h corvusskk
   ```
-  Uninstall
+  Uninstall ※現状では強制的に再起動してしまうので注意してください。
   ```
   winget uninstall -h corvusskk
   ```
