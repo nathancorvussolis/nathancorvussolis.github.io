@@ -41,9 +41,7 @@
   ```
   Uninstall
   
-  ※ アンインストール直後にOSが強制的に再起動してしまうので注意してください。
-  
-  【参照】 https://github.com/microsoft/winget-cli/issues/229
+  ※ アンインストール直後にOSが強制的に再起動してしまうので注意してください。 [#229](https://github.com/microsoft/winget-cli/issues/229)
   ```
   winget uninstall -h corvusskk
   ```
