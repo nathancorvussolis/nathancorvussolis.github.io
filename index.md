@@ -39,7 +39,11 @@
   ```
   winget upgrade -h corvusskk
   ```
-  Uninstall ※現状では強制的に再起動してしまうので注意してください。
+  Uninstall
+  
+  ※ アンインストール直後にOSが強制的に再起動してしまうので注意してください。
+  
+  【参照】 https://github.com/microsoft/winget-cli/issues/229
   ```
   winget uninstall -h corvusskk
   ```
