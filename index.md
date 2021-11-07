@@ -15,36 +15,34 @@
 
 * [Chocolaty Gallery - CorvusSKK](https://chocolatey.org/packages/corvusskk)
 
-  Install
-  ```
-  choco install corvusskk
-  ```
-  Upgrade
-  ```
-  choco upgrade corvusskk
-  ```
-  Uninstall
-  ```
-  choco uninstall corvusskk
-  ```
+  * Install
+    ```
+    choco install corvusskk
+    ```
+  * Upgrade
+    ```
+    choco upgrade corvusskk
+    ```
+  * Uninstall
+    ```
+    choco uninstall corvusskk
+    ```
 
 * [winget](https://docs.microsoft.com/ja-jp/windows/package-manager/winget/)
   * [winget-pkgs/manifests/n/nathancorvussolis](https://github.com/microsoft/winget-pkgs/tree/master/manifests/n/nathancorvussolis)
-
-  Install
-  ```
-  winget install -h corvusskk
-  ```
-  Upgrade
-  ```
-  winget upgrade -h corvusskk
-  ```
-  Uninstall
-  
-  ※ アンインストール直後にOSが強制的に再起動してしまうので注意してください。 [#229](https://github.com/microsoft/winget-cli/issues/229)
-  ```
-  winget uninstall -h corvusskk
-  ```
+  * Install
+    ```
+    winget install -h corvusskk
+    ```
+  * Upgrade
+    ```
+    winget upgrade -h corvusskk
+    ```
+  * Uninstall
+    ※ アンインストール直後にOSが強制的に再起動してしまうので注意してください。 [#229](https://github.com/microsoft/winget-cli/issues/229)
+    ```
+    winget uninstall -h corvusskk
+    ```
    
 * [SKK Opanlab](http://openlab.ring.gr.jp/skk/index-j.html)
 
