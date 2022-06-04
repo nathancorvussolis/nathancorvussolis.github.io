@@ -1,7 +1,7 @@
 
 | プログラム | バージョン | 日付 | 説明 |
 |---|---|---|---|
-| [CorvusSKK](https://github.com/nathancorvussolis/corvusskk) | [3.1.3](https://github.com/nathancorvussolis/corvusskk/releases/tag/3.1.3) | 2022/04/09 | Windowsで動作するSKK風のIMEです<br>[マニュアル](https://github.com/nathancorvussolis/corvusskk/blob/3.1.3/README.md)<br>[設定サンプル](https://github.com/nathancorvussolis/corvusskk/tree/3.1.3/installer/config-sample) |
+| [CorvusSKK](https://github.com/nathancorvussolis/corvusskk) | [3.1.4](https://github.com/nathancorvussolis/corvusskk/releases/tag/3.1.4) | 2022/06/04 | Windowsで動作するSKK風のIMEです<br>[マニュアル](https://github.com/nathancorvussolis/corvusskk/blob/3.1.4/README.md)<br>[設定サンプル](https://github.com/nathancorvussolis/corvusskk/tree/3.1.4/installer/config-sample) |
 | [crvskkserv](https://github.com/nathancorvussolis/crvskkserv) | [2.5.1](https://github.com/nathancorvussolis/crvskkserv/releases/tag/2.5.1) | 2021/05/04 | SKK辞書サーバー<br>Google CGI API for Japanese Inputにも対応 |
 | [meskkdic](https://github.com/nathancorvussolis/meskkdic) | [2.5.0](https://github.com/nathancorvussolis/meskkdic/releases/tag/2.5.0) | 2021/05/04 | SKK辞書メンテナンスツール<br>SKK辞書の結合と差分の取得を行います |
 | [cveuc](https://github.com/nathancorvussolis/cveuc) | [2.5.0](https://github.com/nathancorvussolis/cveuc/releases/tag/2.5.0) | 2021/05/04 | 文字コード変換ツール<br>EUC-JIS-2004、EUC-JP、UTF-8、UTF-16に対応 |
