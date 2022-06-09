@@ -28,6 +28,8 @@
     choco uninstall corvusskk
     ```
 
+* [Microsoft Store - CorvusSKK](https://apps.microsoft.com/store/detail/corvusskk/XPFCXLSGH2H786?hl=ja-jp&gl=jp)
+
 * [winget](https://docs.microsoft.com/ja-jp/windows/package-manager/winget/)
   * [winget-pkgs/manifests/n/nathancorvussolis](https://github.com/microsoft/winget-pkgs/tree/master/manifests/n/nathancorvussolis)
   * Install
