@@ -34,16 +34,16 @@
   * [winget-pkgs/manifests/n/nathancorvussolis](https://github.com/microsoft/winget-pkgs/tree/master/manifests/n/nathancorvussolis)
   * Install
     ```
-    winget install -h corvusskk
+    winget install -h corvusskk -s winget
     ```
   * Upgrade
     ```
-    winget upgrade -h corvusskk
+    winget upgrade -h corvusskk -s winget
     ```
   * Uninstall
     ※ アンインストール直後にOSが強制的に再起動してしまうので注意してください。 [#229](https://github.com/microsoft/winget-cli/issues/229)
     ```
-    winget uninstall -h corvusskk
+    winget uninstall -h corvusskk -s winget
     ```
    
 * [SKK Opanlab](http://openlab.ring.gr.jp/skk/index-j.html)
