@@ -54,6 +54,8 @@
 
 * [AquaSKK](https://github.com/codefirst/aquaskk)
 
+* [macSKK](https://github.com/mtgto/macSKK)
+
 
 ### 開発支援のお願い
 
